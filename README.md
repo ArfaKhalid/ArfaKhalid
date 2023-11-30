@@ -1,4 +1,4 @@
-Hi 👋 My name is Arfa Khalid
+Hi 👋 I am Arfa Khalid!
 ============================
 
 Data Scientist
@@ -35,10 +35,8 @@ I bring a strong analytical background to the world of data science. Proficient 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ArfaKhalid/Prediction-of-Flight-Delays-using-Classification-Model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArfaKhalid&repo=Prediction-of-Flight-Delays-using-Classification-Model&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/ArfaKhalid/Climate-Change-Analysis-Time-Series-Forecasting-in-ML" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArfaKhalid&repo=Climate-Change-Analysis-Time-Series-Forecasting-in-ML&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/ArfaKhalid/Prediction-of-Flight-Delays-using-Classification-Model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArfaKhalid&repo=Prediction-of-Flight-Delays-using-Classification-Model&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/ArfaKhalid/Climate-Change-Analysis-Time-Series-Forecasting-in-ML" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArfaKhalid&repo=Climate-Change-Analysis-Time-Series-Forecasting-in-ML&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
+<br /><br /><br />
 <div width="100%" align="center"><a href="https://github.com/ArfaKhalid/Deep-Learning-with-Keras-Sentiment-Analysis-of-Reviews" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArfaKhalid&repo=Deep-Learning-with-Keras-Sentiment-Analysis-of-Reviews&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/ArfaKhalid/Transaction-Data-Management-and-Analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArfaKhalid&repo=Transaction-Data-Management-and-Analysis&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en" /></a></div>
 
 
