@@ -4,7 +4,7 @@ Hi 👋 I am Arfa Khalid!
 Data Scientist
 --------------
 
-I bring a strong analytical background to the world of data science. Proficient in Python and R, I transitioned my statistical expertise into coding and machine learning. I have explored diverse datasets, honing my skills in machine learning model development and deployment. Passionate about transforming raw data into meaningful insights. Let's connect and explore the endless possibilities of data-driven solutions!
+I bring a strong analytical background to the world of data science with a statistics major. Proficient in Python and R, I transitioned my statistical expertise into coding and machine learning. I have explored diverse datasets, honing my skills in machine learning model development and deployment. Passionate about transforming raw data into meaningful insights. Let's connect and explore the endless possibilities of data-driven solutions!
 
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [MyPortfolio](http://file:///D:/Portfolio/Portwebsite/index.html)
