@@ -10,7 +10,7 @@ I bring a strong analytical background to the world of data science with a stati
 * 🖥️  See my portfolio at [MyPortfolio](http://file:///D:/Portfolio/Portwebsite/index.html)
 * ✉️  You can contact me at [arfakhalid09@gmail.com](mailto:arfakhalid09@gmail.com)
 * 🚀  I'm currently working on [Machine Learning Model Deployment](http://https://colab.research.google.com/drive/1_AXS6zmCg-_BE6PVkp1pFRXPhVicrinE#scrollTo=Wql2TBUqrZRl)
-* 🧠  I'm learning Time Series Forecasting Machine Learning Models
+* 🧠  I'm learning Deep Learning Models
 * 🤝  I'm open to collaborating on Forecasting, ML, AI
 * ⚡  I have excellent analytical skills
 * 📄 Know about my experiences [Resume](linkedln)
