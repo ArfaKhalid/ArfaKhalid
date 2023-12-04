@@ -7,7 +7,7 @@ Data Scientist
 I bring a strong analytical background to the world of data science with a statistics major. Proficient in Python and R, I transitioned my statistical expertise into coding and machine learning. I have explored diverse datasets, honing my skills in machine learning model development and deployment. Passionate about transforming raw data into meaningful insights. Let's connect and explore the endless possibilities of data-driven solutions!
 
 * 🌍  I'm based in Canada
-* 🖥️  See my portfolio at [MyPortfolio](http://file:///D:/Portfolio/Portwebsite/index.html)
+* 🖥️  See my portfolio at [MyPortfolio](https://arfakhalid.github.io)
 * ✉️  You can contact me at [arfakhalid09@gmail.com](mailto:arfakhalid09@gmail.com)
 * 🚀  I'm currently working on [Machine Learning Model Deployment](http://https://colab.research.google.com/drive/1_AXS6zmCg-_BE6PVkp1pFRXPhVicrinE#scrollTo=Wql2TBUqrZRl)
 * 🧠  I'm learning Deep Learning Models
