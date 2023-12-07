@@ -13,7 +13,7 @@ I bring a strong analytical background to the world of data science with a stati
 * 🧠  I'm learning Deep Learning Models
 * 🤝  I'm open to collaborating on Forecasting, ML, AI
 * ⚡  I have excellent analytical skills
-* 📄 Know about my experiences [Resume](Arfakhalid_Resume.pdf)
+* 📄 Know about my experiences [Resume](Arfakhalid_Resume)
 * 🎓 Thesis Publication [Thesis](https://hdl.handle.net/10294/2901)
 * 🗣️ Graduate Seminar 1 [seminar] (https://www.uregina.ca/science/mathstat/assets/docs/pdf/seminar2022/20221205-grad-Khalid.pdf)
 * 🗣️ Graduate Seminar 2 [seminar1] (https://www.uregina.ca/science/mathstat/assets/docs/pdf/seminar2023/20230403-grad-khalid.pdf)
