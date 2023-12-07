@@ -16,8 +16,8 @@ I bring a strong analytical background to the world of data science with a stati
 * 📄 Know about my experiences [Resume](https://github.com/ArfaKhalid/Publication/blob/main/ArfaKhalid_Resume.pdf)
 * 🎓 Thesis Publication [Thesis](https://hdl.handle.net/10294/2901)
 * 🎓 Thesis Writing [Thesis](https://github.com/ArfaKhalid/Publication/blob/main/ArfaKhalid_Thesis.pdf)
-* 🗣️ Graduate Seminar 1 [seminar] (https://www.uregina.ca/science/mathstat/assets/docs/pdf/seminar2022/20221205-grad-Khalid.pdf)
-* 🗣️ Graduate Seminar 2 [seminar1] (https://www.uregina.ca/science/mathstat/assets/docs/pdf/seminar2023/20230403-grad-khalid.pdf)
+* 🗣️ Graduate Seminar 1 [seminar1](https://www.uregina.ca/science/mathstat/assets/docs/pdf/seminar2022/20221205-grad-Khalid.pdf)
+* 🗣️ Graduate Seminar 2 [seminar2](https://www.uregina.ca/science/mathstat/assets/docs/pdf/seminar2023/20230403-grad-khalid.pdf)
   
 
 ### Skills
